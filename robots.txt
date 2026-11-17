@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://krygerdev.github.io/sitemap.xml
